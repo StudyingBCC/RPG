@@ -1,0 +1,7 @@
+C:\Users\Sayuri\Desktop\ProjetoQuintas\bin\Debug\ProjetoQuintas.exe.config
+C:\Users\Sayuri\Desktop\ProjetoQuintas\bin\Debug\ProjetoQuintas.exe
+C:\Users\Sayuri\Desktop\ProjetoQuintas\bin\Debug\ProjetoQuintas.pdb
+C:\Users\Sayuri\Desktop\ProjetoQuintas\obj\Debug\ProjetoQuintas.csproj.AssemblyReference.cache
+C:\Users\Sayuri\Desktop\ProjetoQuintas\obj\Debug\ProjetoQuintas.csproj.CoreCompileInputs.cache
+C:\Users\Sayuri\Desktop\ProjetoQuintas\obj\Debug\ProjetoQuintas.exe
+C:\Users\Sayuri\Desktop\ProjetoQuintas\obj\Debug\ProjetoQuintas.pdb
